@@ -29,6 +29,10 @@ a:hover {
   color: #5aade4;
   text-decoration: none;
 }
+a:visited {
+  color: #FFFFFF;
+  text-decoration: none;
+}
 h1,
 .h1 {
   font-size: 48px /* 64px */;
